@@ -1,0 +1,80 @@
+
+h4 {
+    font-size: 4em;
+    border-radius: 20px;
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border:5px;
+    border-color:black;
+}
+.list{
+    list-style: none;
+    align-items: center;
+    display: flex;
+    width:100%;
+    
+}
+.list li{
+    padding: 26px 30px;
+}
+
+
+.list li a{
+    
+    color:black;
+    text-align: center;
+
+}
+p{
+    color : black;
+    text-align: center;
+    font-size: large;
+    font-weight: 500;
+    background-color: white;
+    height:150px;
+    width:500px;
+    border-radius: 10px;
+    padding-top:20px;
+
+}
+
+.part1{
+    
+    margin: 10px;
+    padding:50px 50px ;
+    
+    color: white;
+    background-color:black;
+    
+}
+.cartoon {
+    margin: 10px;
+    color: white;
+    text-align: center;
+    
+    
+}
+img{
+    height:500px;
+    width: 1000px;
+}
+#tomjerry{
+    background-color: rgb(255, 204, 0);
+    
+}
+#doraemon{
+    background-color: rgb(20, 179, 241);
+    
+}
+#shinchan{
+    background-color: palevioletred;
+}
